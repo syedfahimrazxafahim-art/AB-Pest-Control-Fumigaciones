@@ -1,0 +1,6 @@
+{
+  "name": "AB Pest-Control Fumigaciones",
+  "description": "Professional pest control, termite elimination, rodent exclusion and high-potency fumigation in Dallas-Fort Worth, Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
